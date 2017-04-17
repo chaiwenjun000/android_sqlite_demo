@@ -1,2 +1,2 @@
-# Ò»¸ösqliteµÄandroiddemo
-< Ö»ÉÏ´«ÁË´úÂë²¼¾Ö»¹ÓĞmanifest£¬Ê¹ÓÃAndroid studio¿ª·¢
+# ä¸€ä¸ªsqliteçš„androiddemo
+> åªä¸Šä¼ äº†ä»£ç å¸ƒå±€è¿˜æœ‰manifestï¼Œä½¿ç”¨Android studioå¼€å‘
